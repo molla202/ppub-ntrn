@@ -1,5 +1,5 @@
 {
-  "chain_name": "nois pion-1",
+  "chain_name": "nois nois-testnet-005",
   "api": [
     "https://nois-testnet-api.polkachu.com",
     "http://node-0.noislabs.com:1317",
