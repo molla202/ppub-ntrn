@@ -1,5 +1,5 @@
 {
-  "chain_name": "nois",
+  "chain_name": "nois main",
   "api": ["https://nois-api.polkachu.com","https://api.nois.nodestake.top"],
   "rpc": ["https://nois-rpc.polkachu.com","https://rpc.nois.nodestake.top"],
   "sdk_version": "0.45.14",
