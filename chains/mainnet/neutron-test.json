@@ -1,6 +1,6 @@
 {
     "chain_name": "neutron test",
-    "api": ["https://rest-palvus.pion-1.ntrn.tech","https://api.pion.remedy.tm.p2p.org", "https://rest.baryon-sentry-01.rs-testnet.polypore.xyz"],
+    "api": ["http://65.109.56.215:9490", "https://rest-palvus.pion-1.ntrn.tech","https://api.pion.remedy.tm.p2p.org", "https://rest.baryon-sentry-01.rs-testnet.polypore.xyz"],
     "rpc": ["https://rpc-palvus.pion-1.ntrn.tech ","https://neutron-testnet-rpc.polkachu.com"],
     "provider_chain": {
         "api": ["https://api-cosmoshub-ia.cosmosia.notional.ventures"]
